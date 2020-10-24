@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey there 👋, my name is Miroslav!
 
-<!--
-**merikbest/merikbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm junior java developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm looking for interesting projects, friendly team, possibility to grow as a high-quality specialist.
+
+---
+
+TECHNICAL SKILLS:
+* Java Core, Java 8, Java EE
+* Spring (MVC, Boot, Data, Security)
+* JPA / Hibernate
+* SQL, MySQL, PostgreSQL
+* NoSQL, MongoDB
+* JUnit, Mockito
+* HTML, CSS, Bootstrap
+* JavaScript, React.js
+* Maven, Gradle
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merikbest)](https://github.com/anuraghazra/github-readme-stats)
