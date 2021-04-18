@@ -1,6 +1,4 @@
-### Hey there 👋, my name is Miroslav! I'm Junior Java Full Stack Developer.
-
-I'm looking for interesting projects, friendly team, possibility to grow as a highly qualified specialist.
+### Hey there 👋, my name is Miroslav! I'm Trainee Java Developer.
 
 SKILLS
 
